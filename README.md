@@ -32,15 +32,15 @@ O arquivo `script.js` demonstra as seguintes habilidades:
 
 ## ⚙️ Como Rodar Localmente
 
-1.  **Clone o Repositório:**
-    ```bash
-    git clone [https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git](https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git)
-    ```
-2.  **Acesse a Pasta:**
-    ```bash
-    cd m1-catalogo-geek-template-VictorMartinsD
-    ```
-3.  **Abra o `index.html`:** Simplesmente abra o arquivo `index.html` no seu navegador ou use a extensão Live Server do VS Code.
+1.  **Clone o Repositório:**
+    ```bash
+    git clone [https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git](https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git)
+    ```
+2.  **Acesse a Pasta:**
+    ```bash
+    cd m1-catalogo-geek-template-VictorMartinsD
+    ```
+3.  **Abra o `index.html`:** Simplesmente abra o arquivo `index.html` no seu navegador ou use a extensão Live Server do VS Code.
 
 ---
 ---
@@ -79,12 +79,12 @@ The `script.js` file demonstrates the following skills:
 
 ## ⚙️ How to Run Locally
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git](https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git)
-    ```
-2.  **Access the Folder:**
-    ```bash
-    cd m1-catalogo-geek-template-VictorMartinsD
-    ```
-3.  **Open `index.html`:** Simply open the `index.html` file in your browser or use the VS Code Live Server extension.
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git](https://github.com/VictorMartinsD/m1-catalogo-geek-template-VictorMartinsD.git)
+    ```
+2.  **Access the Folder:**
+    ```bash
+    cd m1-catalogo-geek-template-VictorMartinsD
+    ```
+3.  **Open `index.html`:** Simply open the `index.html` file in your browser or use the VS Code Live Server extension.
