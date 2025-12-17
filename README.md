@@ -1,5 +1,9 @@
 # 🚀 Catálogo Geek: Renderização Dinâmica de Produtos
 
+## 🔗 Deploy do Projeto / Project Deploy
+Confira o **Catálogo Geek** em execução através do link abaixo:
+👉 [Aceder ao Catálogo Geek](https://victormartinsd.github.io/m1-catalogo-geek-template-VictorMartinsD/)
+
 ## 📸 Preview
 
 <p align="center">
@@ -46,6 +50,9 @@ O arquivo `script.js` demonstra as seguintes habilidades:
 ---
 
 # 🇺🇸 Geek Catalog: Dynamic Product Rendering
+
+Check out the **Geek Catalog** in action at the link below:
+👉 [Access Geek Catalog](https://victormartinsd.github.io/m1-catalogo-geek-template-VictorMartinsD/)
 
 ## 📸 Preview
 
